@@ -1,0 +1,35 @@
+div {
+    width: 100px;
+    height: 100px; 
+    display: inline-table;
+}
+div.r1 {
+    background-color: violet;
+}
+div.r2 {
+    background-color: greenyellow;
+}
+div.r3 {
+    background-color: blue;
+}
+div.r4 {
+    background-color: brown;
+}
+div.p1 {
+    border: 2px solid green;
+    display: block;
+    }
+div.p2 {
+    border: 2px solid blue;
+    display: block;
+    }
+div.p3 {
+    border: 2px solid pink;
+    display: block;
+    }
+input.i1 {
+    width: 100px;
+    height: 30px;
+    color: orange;
+    background: grey;
+}
